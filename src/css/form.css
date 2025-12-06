@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin-top: 36px;
+}
+
+.form-label {
+}
+
+.form-input {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #808080;
+  padding: 8px 16px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 272px;
+  height: 40px;
+  background: #fff;
+}
